@@ -13,7 +13,7 @@ PYTHON2.X<br>
 # 2. BING GRABBER FROM IP LIST
 ![alt text](https://raw.githubusercontent.com/e-xploit1337/GhostFucker/master/images/02.jpg)
 
-# 3. BING GRABBER FROM IP LIST
+# 3. RANGE IP FROM IP LIST
 ![alt text](https://raw.githubusercontent.com/e-xploit1337/GhostFucker/master/images/03.jpg)
 
 # HOW TO INSTALL
