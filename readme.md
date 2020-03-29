@@ -5,7 +5,7 @@ PYTHON2.X<br>
 03 . RANGE IP FROM IP LIST<br>
 
 # DISPLAY TOOLS
-![alt text](https://raw.githubusercontent.com/e-xploit1337/GhostFucker/master/images/00.jpg)
+![alt text](https://raw.githubusercontent.com/e-xploit1337/GhostFucker/master/images/display.jpg)
 
 # 1. BING DORKER FROM DORK LIST
 ![alt text](https://raw.githubusercontent.com/e-xploit1337/GhostFucker/master/images/01.jpg)
